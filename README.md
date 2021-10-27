@@ -1,6 +1,7 @@
 <h2> Hi there! I am Shangrex. </h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3>  &nbsp;About Me </h3>
+
 - 🌱 &nbsp; I’m currently learning NLP, React.js
 - 👯 &nbsp; I’m looking to collaborate on open source projects.
 - 🎓 &nbsp; Studying Computer Science and Information Engineering at National Cheng Kung University.
