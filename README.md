@@ -5,6 +5,7 @@
 - 🌱 &nbsp; I focus on building machine learning applications, and familiar with database sytems, natural language processing, web applications and system networking.
 - 👯 &nbsp; I’m looking to collaborate on open source projects and 2024 summer internship.
 - 🎓 &nbsp; Studying Master of Computer Science in University of Illinois Urbana-Champaign.
+- 💻 &nbsp; [My Gitroll report](https://gitroll.io/scan?id=czKlnqtIwJxxBSFSRcnl)
 
 </br>
 
