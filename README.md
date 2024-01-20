@@ -2,9 +2,9 @@
 
 <h3>  &nbsp;About Me </h3>
 
-- 🌱 &nbsp; I’m currently learning NLP, React.js
-- 👯 &nbsp; I’m looking to collaborate on open source projects.
-- 🎓 &nbsp; Studying Computer Science and Information Engineering at National Cheng Kung University.
+- 🌱 &nbsp; I focus on building machine learning applications, and familiar with database sytems, natural language processing, web applications and system networking.
+- 👯 &nbsp; I’m looking to collaborate on open source projects and 2024 summer internship.
+- 🎓 &nbsp; Studying Master of Computer Science in University of Illinois Urbana-Champaign.
 
 </br>
 
