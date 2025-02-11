@@ -3,7 +3,7 @@
 <h3>  &nbsp;About Me </h3>
 
 - 🌱 &nbsp; I focus on building DevOps, machine learning applications and computing, and web backend development, and also familiar with database systems, and natural language processing.
-- 👯 &nbsp; I’m looking to collaborate on open source projects and 2025 New Grad and 2025 Spring Co-op.
+- 👯 &nbsp; I’m looking to collaborate on open source projects and 2025 New Grad.
 - 🎓 &nbsp; Studying Master of Computer Science in University of Illinois Urbana-Champaign.
 - 💻 &nbsp; [My Gitroll report](https://gitroll.io/scan?id=czKlnqtIwJxxBSFSRcnl)
 
